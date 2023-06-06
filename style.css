@@ -1,12 +1,12 @@
 body {
 background-color: rgb(255, 255, 255);
-color: rgb(255, 247, 247);
+color: rgb(0, 0, 0);
 
 }
 
 .cabeçalho {
 background-color: rgb(255, 230, 0);
-color: rgb(42, 50, 165);
+color: rgb(0, 0, 0);
 display: flex;
 justify-content: space-around;
 padding: 24px 0;
