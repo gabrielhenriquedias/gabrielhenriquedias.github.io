@@ -1,3 +1,4 @@
+
 body {
 background-color: rgb(255, 255, 255);
 color: rgb(255, 247, 247);
@@ -6,7 +7,7 @@ color: rgb(255, 247, 247);
 
 .cabeçalho {
 background-color: rgb(255, 230, 0);
-color: rgb(0, 0, 0);
+color: rgb(42, 50, 165);
 display: flex;
 justify-content: space-around;
 padding: 24px 0;
@@ -14,7 +15,7 @@ font-size: 24 px;
 
 }
 
-.cabeçalho-lista-intem {
+.cabeçalho-lista-item {
     display: inline-block;
     margin: 0 016px;
     padding: 24px 0;
@@ -27,7 +28,7 @@ font-size: 24 px;
 
 }
 
-escola.imagem {
+.imagem {
     width: 25%;
 
 }
