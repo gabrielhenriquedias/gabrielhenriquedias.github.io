@@ -5,21 +5,21 @@ color: rgb(255, 255, 255);
 }
 
 .cabeçalho {
-background-color: rgb(255, 255, 255);
+background-color: rgb(226, 219, 219);
 color: rgba(255, 251, 254, 0.979);
 display: flex;
 justify-content: space-around;
-padding: 70px 0;
-font-size: 40px;
+padding: 50px 0;
+font-size: 50px;
 
 }
 
 .cabeçalho-lista-item {
     display: inline-block;
     margin: 0 38px;
-    padding: 58px 0;
-    font-size: 70px;
-    color: rgb(0, 0, 0);
+    padding: 60px 0;
+    font-size: 60px;
+    color: rgba(247, 230, 0, 0.76);
 }
 
 * {
@@ -33,13 +33,19 @@ font-size: 40px;
 
 }
 .escola {
-    background-color: rgb(250, 250, 250);
-    color: rgba(0, 0, 0, 0.911);
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.945);
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
 .escola-conteudo {
-    width: 55%;
+    width: 65%;
 }
+.pincipal {
+
+ background-image: url(“img/Background.png”);
+
+}
+
