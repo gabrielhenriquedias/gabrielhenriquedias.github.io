@@ -3,10 +3,10 @@ body {
    color: rgb(0, 0, 0);
 }
 .cabecalho-imagem {
-    width: 70%;
+    width: 50%;
 }
 .cabecalho {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -15,11 +15,11 @@ body {
 }
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 40px;
-    padding: 45px;
-    font-size: 50px;
+    margin: 20px;
+    padding: 25px;
+    font-size: 30px;
 }
 * { 
     margin: 10;
-    padding: 10;
+    padding: 0;
 }
